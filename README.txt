@@ -31,3 +31,8 @@ Why it matters in a portfolio:
 Primary artifacts:
   The notebook is the editable analysis source.
   The PDF and DOCX act as readout/submission artifacts.
+
+## Technical Context
+
+Detailed operating notes, agent handoffs, and review context live under `_orchestration\`. Start with `_orchestration\DEVOPS.md` when present.
+
