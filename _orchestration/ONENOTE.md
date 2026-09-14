@@ -2,7 +2,7 @@
 onenote_page: repo_bta523
 repo_path: C:\Users\kadek\source\repos\schoolPortfolio\bta523_machine_learning_applications_for_managers
 last_updated: 2026-07-12
-last_synced: 2026-09-13T03:04:00
+last_synced: 2026-09-14T03:06:57
 ---
 
 # repo_bta523
